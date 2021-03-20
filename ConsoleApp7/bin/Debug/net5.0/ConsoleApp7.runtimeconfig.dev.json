@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ROSTIK\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ROSTIK\\.nuget\\packages"
+    ]
+  }
+}
